@@ -12,6 +12,10 @@
 * Express.js
 * Node-Postgres(pg)
 
+### APIs:
+* https://www.nps.gov/subjects/developer/api-documentation.htm
+* https://developers.google.com/maps/documentation/javascript/overview
+
 ## About the application
 ### Parkly - Interactive outdoors application
 * Sign up for an account using Google authetication to post your park review.
