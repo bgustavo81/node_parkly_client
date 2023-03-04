@@ -10,7 +10,6 @@
 ### Back-End:
 * Node.js
 * Express.js
-* Jsonwebtoken
 * Node-Postgres(pg)
 
 ## About the application
