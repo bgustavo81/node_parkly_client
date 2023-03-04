@@ -16,7 +16,6 @@
 ### Parkly - Interactive outdoors application
 * Sign up for an account using Google authetication to post your park review.
 * Create and update bugs to push the development of your software.
-* Please review the Client Repository for architecture and techical details.
 
 ### View active session at https://parkly.onrender.com
 
